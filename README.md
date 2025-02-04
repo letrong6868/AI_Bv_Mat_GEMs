@@ -1,5 +1,5 @@
-# 💬 Chatbot Anh Lập Trình
+# 💬 Chatbot Y Tế GEMs
 
-Chương trình chatbot được tạo ra từ Anh Lập Trình (https://anhlaptrinh.vn/)
+Chương trình chatbot hỗ trợ Tra cứu Dược học và Y Khoa (Phiên bản beta 1.0)
 
 

@@ -1,5 +1,5 @@
-# 💬 Chatbot Anh Lập Trình
+# 💬 Chatbot Y KHOA GEMs
 
-Chương trình chatbot được tạo ra từ Anh Lập Trình (https://anhlaptrinh.vn/)
+Chương trình chatbot được tạo ra từ GEMs by Lê Trọng
 
 
